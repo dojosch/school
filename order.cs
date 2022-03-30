@@ -16,3 +16,6 @@ Console.WriteLine($"Netto-Umsatz: {Math.Round(netto, 2)}");
 // Please answer the following question:
 // What do you think "Math.Round" is used for?
 // TODO: Your answer here
+
+// Do you want to be evaluated (Y / N)?
+// TODO: Y or N
