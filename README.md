@@ -4,3 +4,4 @@ In diesem Repository findest du die Code-Angaben zu unterschiedlichen Aufgabenst
 ## Inhalt
 * [Übung: Bestellungen bearbeiten](https://github.com/dojosch/school/blob/main/order.cs)
 * [Übung: Spam in der Inbox](https://github.com/dojosch/school/blob/main/spamcount.cs)
+* [Übung: Strecken-Prüfung](https://github.com/dojosch/school/blob/main/checktrack.cs)
